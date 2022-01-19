@@ -1,5 +1,5 @@
 celery==5.1.2
-waitress==1.1.0
+waitress==1.4.3
 pygerrit2==2.0.13
 requests==2.20.0
 pillow==2.5.0
